@@ -1,0 +1,7 @@
+# Interactive Alpha-Beta Pruning Simulator Requirements
+# Python >= 3.10
+# Built-in libraries used: tkinter, unittest, time, math, random, csv, os, sys
+
+matplotlib>=3.8.0
+python-docx>=1.1.0
+pillow>=10.0.0
